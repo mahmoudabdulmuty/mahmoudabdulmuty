@@ -7,7 +7,7 @@ Full-Stack | Software engineer :robot: :man_technologist:. (In progress)
 
 ## About me 
 
-:heart: Football | :black_heart: Reading| :blue_heart: Programming
+:heart: Football | :black_heart: Reading | :blue_heart: Programming
 
 - :earth_americas: I'm from Cairo - Egypt
 - :video_game: I like to play video games

@@ -1,9 +1,9 @@
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
 
-# Hi, I'm Mahmoud :chicken:
+# Hi, I'm Mahmoud :robot:
 
-Full-Stack | Software engineer :robot: :man_technologist:. (In progress)
+Full-Stack | Software engineer :man_technologist: (In progress)
 
 ## About me 
 

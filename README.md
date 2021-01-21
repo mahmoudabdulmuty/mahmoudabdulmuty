@@ -11,7 +11,7 @@ Full-Stack | Software engineer :man_technologist: (In progress)
 
 - :earth_americas: I'm from Cairo - Egypt
 - :video_game: I like to play video games
-- :gem: I love to customize everything lol
+- :gem: I love to customize everything
 
 
 ## Social media :mailbox_with_no_mail:

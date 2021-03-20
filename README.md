@@ -9,9 +9,9 @@ Full-Stack | Software engineer :man_technologist: (In progress)
 
 :heart: Football | :black_heart: Reading | :blue_heart: Programming
 
-- :earth_americas: I'm from Cairo - Egypt
-- :video_game: I like to play video games
-- :gem: I love to customize everything
+- 🇪🇬 : I'm from Cairo - Egypt
+- ⚽: I like to Watch Football
+- 💎: I love to customize everything
 
 
 ## Social media :mailbox_with_no_mail:

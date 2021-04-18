@@ -1,6 +1,3 @@
-<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
-
-
 # Hi, I'm Mahmoud :robot:
 
 Full-Stack | Software engineer :man_technologist: (In progress)

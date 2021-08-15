@@ -43,7 +43,7 @@
   </a>
    &emsp;
   <a href="https://sass-lang.com/" target="_blank"> 
-    <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+    <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white"/>
   </a>
    &emsp;
   <a href="https://reactjs.org/" target="_blank"> 

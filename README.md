@@ -1,6 +1,6 @@
 # Hi, I'm Mahmoud :robot:
 
-Full-Stack | Software engineer :man_technologist: (In progress)
+Frontend Engineer :man_technologist:
 
 ## About me 
 

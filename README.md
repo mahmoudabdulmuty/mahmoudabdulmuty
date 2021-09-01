@@ -2,9 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Mahmoud </h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+Taught+Front-End+Developer;Always+Learning+New+Things&center=true&width=500&height=50"></a>
-</p>
+
 <hr/>
 <h4 align="center">I am a Front-End Developer from Egypt 🇪🇬 . I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>

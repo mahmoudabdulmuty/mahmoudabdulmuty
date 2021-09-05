@@ -108,7 +108,3 @@
 	<a href="https://www.linkedin.com/in/mahmoud-abdulmuty/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.reddit.com/user/MahmoudAbdulMuty"><img src="https://img.icons8.com/bubbles/50/000000/reddit.png" alt="Reddit"/></a>
 </p>
-
-<p align="center">
-  <img src="https://github.com/mahmoudabdulmuty/mahmoudabdulmuty/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>

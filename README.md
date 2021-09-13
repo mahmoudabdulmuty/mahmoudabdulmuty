@@ -11,7 +11,7 @@
 ## 🔥 Streak Stats
 
 <p align="center"> 
-	[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahmoudabdulmuty&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=mahmoudabdulmuty&theme=algolia&hide_border=true" />
 </p>
 
 ## 🛠️ My Skills

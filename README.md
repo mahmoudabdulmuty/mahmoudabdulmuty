@@ -11,6 +11,8 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudabdulmuty&theme=algolia" alt="mahmoudabdulmuty stats"  /></p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahmoudabdulmuty&theme=darcula&hide_border=true)](https://git.io/streak-stats)
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages

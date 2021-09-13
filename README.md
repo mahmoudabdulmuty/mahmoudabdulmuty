@@ -9,9 +9,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmoudabdulmuty&label=Profile%20views&color=0e75b6&style=plastic" alt="mahmoudabdulmuty" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudabdulmuty&theme=algolia" alt="mahmoudabdulmuty stats"  /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahmoudabdulmuty&theme=darcula&hide_border=true)](https://git.io/streak-stats)
+<p align="center"> 
+	[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahmoudabdulmuty&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+</p>
 
 ## 🛠️ My Skills
 

@@ -26,7 +26,15 @@
 </p>
 
 ### 👉 Frontend Development
-<p align="left"> 
+<p align="left">
+  &emsp;
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img alt="VueJS" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff" />
+  </a>
+  &emsp;
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
+  </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white">
@@ -42,14 +50,6 @@
    &emsp;
   <a href="https://sass-lang.com/" target="_blank"> 
     <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
-  </a>
-   &emsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"/>
   </a>
 </p>
 

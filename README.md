@@ -99,7 +99,7 @@
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Let's Connect
 <p align="center">
 	<a href="mailto:mahmoudabdulmuty@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/mahmoudabdulmuty/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>

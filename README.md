@@ -9,7 +9,7 @@
 <br>
 
 <div align=center>
-    <img src="https://myoctocat.com/assets/images/octocats/octocat-20.png" alt="GitHub Octocat" height="200">
+    <img src="https://octodex.github.com/images/steroidtocat.png" alt="GitHub Octocat" height="200">
 </div>
 
 

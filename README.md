@@ -106,3 +106,10 @@
 	<a href="https://www.reddit.com/user/MahmoudAbdulMuty"><img src="https://img.icons8.com/bubbles/50/000000/reddit.png" alt="Reddit"/></a>
 	
 </p>
+
+## :trophy: Git profile Trophies
+
+<p align="center"> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudabdulmuty&layout=compact&theme=algolia" alt="Mahmoud Abdulmuty" />
+	</a> 
+</p>

@@ -110,7 +110,4 @@
 </p>
 
 
-![snake gif](https://github.com/mahmoudabdulmuty/mahmoudabdulmuty/blob/output/github-contribution-grid-snake.gif#gh-dark-mode-only)
-
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/mahmoudabdulmuty/mahmoudabdulmuty/blob/output/github-contribution-grid-snake.svg)

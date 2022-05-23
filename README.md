@@ -108,3 +108,6 @@
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudabdulmuty&layout=compact&theme=algolia" alt="Mahmoud Abdulmuty" />
 	</a> 
 </p>
+
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)

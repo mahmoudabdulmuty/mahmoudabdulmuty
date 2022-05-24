@@ -70,7 +70,7 @@
 ## 📊 Github Stats (Expand to View) 
 
 
-<details> 
+<p> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
@@ -81,16 +81,8 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
+</p>
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/mahmoudabdulmuty"><img alt="Mahmoud's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahmoudabdulmuty&custom_title=Mahmoud%20Abdulmuty%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
 
 <br/>
 

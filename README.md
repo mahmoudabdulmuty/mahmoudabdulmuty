@@ -71,7 +71,7 @@
 
 <p> 
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mahmoud's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahmoudabdulmuty&show_icons=true&count_private=true&theme=algolia" height="50px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mahmoud's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahmoudabdulmuty&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudabdulmuty&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mahmoudabdulmuty" height="192px"/>
@@ -83,7 +83,7 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Let's Connect
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px"> Let's Connect
 <p align="center">
 	<a href="mailto:mahmoudabdulmuty@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/mahmoudabdulmuty/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
